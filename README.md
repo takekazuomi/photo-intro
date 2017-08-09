@@ -1,7 +1,6 @@
 # photo Intro
 
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/takekazuomi/photo-intro/master?grs=github&t=white)
-
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/takekazuomi/photo-intro/dev)
 
 
 
