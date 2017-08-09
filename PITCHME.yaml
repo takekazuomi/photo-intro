@@ -1,4 +1,5 @@
+background: bg/navy.png
 transition: slide
-theme: white
+theme: black
 footnote: "© 2017 Takekazu Omi All Rights Reserved."
 theme-override: assets/PITCHME.css
